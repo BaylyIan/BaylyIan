@@ -1,11 +1,15 @@
  👋  Hi, I’m Ian
 <br />
-Im a Frontend Developer based in Coquitlam, BC 🇨🇦
 <br />
-◾ 👀 Im interested in building porjcets within the React ecosystem <br />
-◾ 📕 Currently learning Redux and Typescript <br />
-▪️ 🔍 I am currently searching for opportunities to learn and grow as a developer <br />
-▪️ 📫 How to reach me => ianbaylyy@gmail.com <br />
+I'm a Front End Developer based in Coquitlam, BC 🇨🇦
+<br />
+<ul>
+ <li>👀 I'm interested in building projects within the React ecosystem <br /></li>
+  <li>📕 Currently learning Redux and Typescript <br /></li>
+  <li>🔍 I'm searching for opportunities to learn and grow as a developer <br /></li>
+  <li>📫 How to reach me => ianbaylyy@gmail.com <br />
+</li>
+</ul>
 
 Check out my personal website: https://www.ianbayly.com/
 
